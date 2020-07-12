@@ -6,9 +6,8 @@ WinSCP
 /<root>/usr/share/nginx/html
 
 vi /etc/nginx/nginx.conf
-i+Enter Shift+Insert
+i
+Shift+Insert
 :wq!
 service nginx restart
 history
-
-ec2-user@18.221.122.132
