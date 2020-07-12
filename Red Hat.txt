@@ -1,0 +1,14 @@
+sudo -y
+yum install nginx -y
+chmod 777 /usr/share/nginx/html
+
+WinSCP
+/<root>/usr/share/nginx/html
+
+vi /etc/nginx/nginx.conf
+i+Enter Shift+Insert
+:wq!
+service nginx restart
+history
+
+ec2-user@18.221.122.132
