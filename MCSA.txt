@@ -1,8 +1,10 @@
 Perform upgrades and migrations of servers and core workloads from Windows Server 2008 and Windows Server 2012 to Windows Server 2016
-Determine the appropriate activation model for server installation, such as Automatic Virtual Machine Activation (AVMA), Key Management Service (KMS), and Active Directory-based Activation
-Microsoft Assessment and Planning (MAP) Toolkit
-SMB shares.
+Volume Activation Services role
+Microsoft Assessment and Planning Toolkit
+SMB Share
 Configure iSNS
 Configure Datacenter Bridging (DCB)
 Implement Storage Replica for server-to server, cluster-to-cluster, and stretch cluster scenarios
 3.2 Configure virtual machine (VM) settings
+Remote management using Hyper-V Manager
+Configure Non-Uniform Memory Access (NUMA) support
