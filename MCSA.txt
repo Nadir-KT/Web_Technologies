@@ -8,3 +8,13 @@ Implement Storage Replica for server-to server, cluster-to-cluster, and stretch 
 3.2 Configure virtual machine (VM) settings
 Remote management using Hyper-V Manager
 Configure Non-Uniform Memory Access (NUMA) support
+Configure smart paging
+Manage Integration Services
+Implement Secure Boot for Windows and Linux environments
+Export and import VMs using Hyper-V Manager
+Resize a virtual hard disk
+Manage checkpoints
+Implement production checkpoints
+Implement a virtual fibre channel adapter
+Configure Storage Quality of Service (QoS)
+ 3.4: Configure Hyper-V networking - 326
