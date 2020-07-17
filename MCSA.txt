@@ -2,7 +2,6 @@ Perform upgrades and migrations of servers and core workloads from Windows Serve
 Volume Activation Services role
 Configure iSNS
 Configure Datacenter Bridging (DCB)
-Implement Storage Replica for server-to server, cluster-to-cluster, and stretch cluster scenarios
 Remote management using Hyper-V Manager
 Configure Non-Uniform Memory Access (NUMA) support
 Configure smart paging
