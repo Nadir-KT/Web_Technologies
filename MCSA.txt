@@ -1,6 +1,5 @@
 Perform upgrades and migrations of servers and core workloads from Windows Server 2008 and Windows Server 2012 to Windows Server 2016
 Volume Activation Services role
-SMB Share
 Configure iSNS
 Configure Datacenter Bridging (DCB)
 Implement Storage Replica for server-to server, cluster-to-cluster, and stretch cluster scenarios
