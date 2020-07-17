@@ -1,1 +1,13 @@
+740
+https://arjang.ac.ir/downloads/Landings/HadiShojaee/Exam%20Ref%2070-740%20%20%281%29.pdf
 http://dl.hellodigi.ir/dl.hellodigi.ir/dl/book/Exam%20Ref%2070-740%20Installation%2C%20Storage%20and%20Compute%20with%20Windows%20Server%202016.pdf
+http://dl.hellodigi.ir/dl.hellodigi.ir/dl/book/MCSA%2070-740%20Cert%20Guide%20%20Installation%2C%20Storage%2C%20and%20Compute%20with%20Windows%20Server%202016.pdf
+741
+https://arjang.ac.ir/sites/default/files/field-collections/course-resources/resource-file/exam_ref_70-741.pdf
+http://dl.hellodigi.ir/dl.hellodigi.ir/dl/book/Exam%20Ref%2070-741%20Networking%20with%20Windows%20Server%202016.pdf
+742
+MCSA 70-742 Cert Guide / 70-742 Study Guide / Exam Ref 70-742
+743
+http://dl.hellodigi.ir/dl.hellodigi.ir/dl/book/Exam%20Ref%2070-743%20Upgrading%20Your%20Skills%20to%20MCSA%20Windows%20Server%202016.pdf
+744
+http://dl.hellodigi.ir/dl.hellodigi.ir/dl/book/Exam%20Ref%2070-744%20Securing%20Windows%20Server%202016.pdf
