@@ -15,4 +15,4 @@ Manage checkpoints
 Implement production checkpoints
 Implement a virtual fibre channel adapter
 Configure Storage Quality of Service (QoS)
- 3.4: Configure Hyper-V networking - 326
+3.4: Configure Hyper-V networking - 326
