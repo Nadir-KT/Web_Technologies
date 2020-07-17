@@ -3,10 +3,6 @@ Volume Activation Services role
 Configure iSNS
 Configure Datacenter Bridging (DCB)
 Remote management using Hyper-V Manager
-Configure Non-Uniform Memory Access (NUMA) support
-Configure smart paging
-Manage Integration Services
-Implement Secure Boot for Windows and Linux environments
 Export and import VMs using Hyper-V Manager
 Resize a virtual hard disk
 Manage checkpoints
