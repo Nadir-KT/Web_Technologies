@@ -1,11 +1,9 @@
 Perform upgrades and migrations of servers and core workloads from Windows Server 2008 and Windows Server 2012 to Windows Server 2016
 Volume Activation Services role
-Microsoft Assessment and Planning Toolkit
 SMB Share
 Configure iSNS
 Configure Datacenter Bridging (DCB)
 Implement Storage Replica for server-to server, cluster-to-cluster, and stretch cluster scenarios
-Implement a backup and restore solution with deduplication
 Remote management using Hyper-V Manager
 Configure Non-Uniform Memory Access (NUMA) support
 Configure smart paging
