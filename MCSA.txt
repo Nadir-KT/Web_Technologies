@@ -5,7 +5,7 @@ SMB Share
 Configure iSNS
 Configure Datacenter Bridging (DCB)
 Implement Storage Replica for server-to server, cluster-to-cluster, and stretch cluster scenarios
-3.2 Configure virtual machine (VM) settings
+Implement a backup and restore solution with deduplication
 Remote management using Hyper-V Manager
 Configure Non-Uniform Memory Access (NUMA) support
 Configure smart paging
