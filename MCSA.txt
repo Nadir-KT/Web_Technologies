@@ -9,4 +9,4 @@ Implement production checkpoints
 Implement a virtual fibre channel adapter
 Configure Storage Quality of Service (QoS)
 3.4: Configure Hyper-V networking - 326
-MCSA 70-740 Cert Guide - 157
+MCSA 70-740 Cert Guide - 173
