@@ -10,3 +10,4 @@ Implement a virtual fibre channel adapter
 Configure Storage Quality of Service (QoS)
 3.4: Configure Hyper-V networking - 326
 MCSA 70-740 Cert Guide - 173
+MCSA Windows Server Study Guide Exam 70-740 - 60
