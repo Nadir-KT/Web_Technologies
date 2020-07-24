@@ -8,7 +8,9 @@ Manage checkpoints
 Implement production checkpoints
 Implement a virtual fibre channel adapter
 Configure Storage Quality of Service (QoS)
+Configure MAC addresses
+Configure NIC teaming in VMs
 Implement Hyper-V Replica
-3.4: Configure Hyper-V networking - 326
+Exam Ref 70-740 - 386
 MCSA 70-740 Cert Guide - 242
 MCSA Windows Server Study Guide Exam 70-740 - 60
