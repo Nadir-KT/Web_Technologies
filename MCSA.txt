@@ -13,5 +13,5 @@ Configure NIC teaming in VMs
 Implement Hyper-V Replica
 Configuring Quorum
 Exam Ref 70-740 - 433
-MCSA 70-740 Cert Guide - 242
+MCSA 70-740 Cert Guide - 290
 MCSA Windows Server Study Guide Exam 70-740 - 60
