@@ -11,6 +11,6 @@ Configure Storage Quality of Service (QoS)
 Configure MAC addresses
 Configure NIC teaming in VMs
 Implement Hyper-V Replica
-Exam Ref 70-740 - 386
+Exam Ref 70-740 - 433
 MCSA 70-740 Cert Guide - 242
 MCSA Windows Server Study Guide Exam 70-740 - 60
