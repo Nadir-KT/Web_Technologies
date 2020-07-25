@@ -14,5 +14,5 @@ Implement Hyper-V Replica
 Configuring Quorum
 implement Cluster-Aware Updating
 Exam Ref 70-740 - 523
-MCSA 70-740 Cert Guide - 290
+MCSA 70-740 Cert Guide - 335
 MCSA Windows Server Study Guide Exam 70-740 - 60
