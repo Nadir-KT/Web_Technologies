@@ -2,7 +2,6 @@ Perform upgrades and migrations of servers and core workloads from Windows Serve
 Volume Activation Services role
 Configure iSNS
 Configure Datacenter Bridging (DCB)
-Configure Storage Quality of Service (QoS)
 Configure MAC addresses
 Configure NIC teaming in VMs
 Implement Hyper-V Replica
