@@ -14,3 +14,4 @@ Implement Hyper-V Replica
 Configuring Quorum
 implement Cluster-Aware Updating
 MCSA Windows Server Study Guide Exam 70-740 - 60
+Microsoft Deployment Toolkit
