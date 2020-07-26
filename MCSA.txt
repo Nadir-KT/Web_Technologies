@@ -11,5 +11,6 @@ Configure NIC teaming in VMs
 Implement Hyper-V Replica
 Configuring Quorum
 implement Cluster-Aware Updating
-MCSA Windows Server Study Guide Exam 70-740 - 168
 Microsoft Deployment Toolkit
+MCSA Windows Server Study Guide Exam 70-740 - 168
+Exam Ref 70-741
