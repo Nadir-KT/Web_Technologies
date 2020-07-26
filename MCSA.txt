@@ -2,8 +2,6 @@ Perform upgrades and migrations of servers and core workloads from Windows Serve
 Volume Activation Services role
 Configure iSNS
 Configure Datacenter Bridging (DCB)
-Implement production checkpoints
-Implement a virtual fibre channel adapter
 Configure Storage Quality of Service (QoS)
 Configure MAC addresses
 Configure NIC teaming in VMs
