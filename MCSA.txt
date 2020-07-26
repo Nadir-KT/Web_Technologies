@@ -2,7 +2,6 @@ Perform upgrades and migrations of servers and core workloads from Windows Serve
 Volume Activation Services role
 Configure iSNS
 Configure Datacenter Bridging (DCB)
-Export and import VMs using Hyper-V Manager
 Manage checkpoints
 Implement production checkpoints
 Implement a virtual fibre channel adapter
