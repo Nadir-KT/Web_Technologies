@@ -13,3 +13,4 @@ MCSA 70-741 Cert Guide - 56
 IP Address Management (IPAM)
 Network Address Translation (NAT)
 Network Policy Server (NPS)
+Distributed File System (DFS)
