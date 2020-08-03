@@ -12,3 +12,4 @@ Exam Ref 70-741 - 127
 MCSA 70-741 Cert Guide - 56
 IP Address Management (IPAM)
 Network Address Translation (NAT)
+Network Policy Server (NPS)
