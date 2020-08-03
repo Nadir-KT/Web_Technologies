@@ -8,7 +8,7 @@ Implement Hyper-V Replica
 implement Cluster-Aware Updating
 Microsoft Deployment Toolkit
 MCSA Windows Server Study Guide Exam 70-740 - 168
-MCSA 70-741 Cert Guide - 151
+MCSA 70-741 Cert Guide - 214
 IP Address Management (IPAM)
 Network Address Translation (NAT)
 Network Policy Server (NPS)
