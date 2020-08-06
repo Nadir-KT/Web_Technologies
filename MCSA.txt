@@ -17,3 +17,4 @@ Hyper-V Manager, import the virtual machine
 Configure and restore objects by using the Active Directory Recycle Bin
 Group Policy Management (Configure software installation, Configure Internet Explorer settings)
 Active Directory Federation Services (AD FS)
+Web Application Proxy (WAP)
