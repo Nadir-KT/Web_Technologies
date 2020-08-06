@@ -11,9 +11,8 @@ IP Address Management (IPAM)
 Network Address Translation (NAT)
 Network Policy Server (NPS)
 Distributed File System (DFS)
-Exam Ref 70-742 - 152
+Exam Ref 70-742 - 300
 Install from Media (IFM)
 Hyper-V Manager, import the virtual machine
 Configure and restore objects by using the Active Directory Recycle Bin
-Configure software installation
-Configure Internet Explorer settings
+Group Policy Management (Configure software installation, Configure Internet Explorer settings)
