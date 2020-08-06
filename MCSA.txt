@@ -11,7 +11,7 @@ IP Address Management (IPAM)
 Network Address Translation (NAT)
 Network Policy Server (NPS)
 Distributed File System (DFS)
-Exam Ref 70-742 - 314
+Exam Ref 70-742 - 366
 Install a domain controller from Install from Media (IFM)
 Hyper-V Manager, import the virtual machine
 Configure and restore objects by using the Active Directory Recycle Bin
