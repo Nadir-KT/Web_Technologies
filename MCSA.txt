@@ -15,3 +15,4 @@ Exam Ref 70-742 - 152
 Install from Media (IFM)
 Hyper-V Manager, import the virtual machine
 Configure and restore objects by using the Active Directory Recycle Bin
+Configure software installation
