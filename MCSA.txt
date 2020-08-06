@@ -13,7 +13,7 @@ Network Policy Server (NPS)
 Distributed File System (DFS)
 Exam Ref 70-742 - 366
 Install a domain controller from Install from Media (IFM)
-Hyper-V Manager, import the virtual machine
+Configure domain controller cloning (Hyper-V Manager, import the virtual machine)
 Configure and restore objects by using the Active Directory Recycle Bin
 Group Policy Management (Configure software installation, Configure Internet Explorer settings)
 Active Directory Federation Services (AD FS)
