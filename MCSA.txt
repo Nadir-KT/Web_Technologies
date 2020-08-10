@@ -3,7 +3,6 @@ Hyper-V Replica
 NIC teaming
 MCSA Windows Server Study Guide Exam 70-740 - 168
 iSNS, Datacenter Bridging (DCB)
-
 Cluster-Aware Updating
 MCSA 70-741 Cert Guide - 214
 Implement IPv6.
