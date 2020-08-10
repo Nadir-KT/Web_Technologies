@@ -12,7 +12,7 @@ IP Address Management (IPAM)
 Network Address Translation (NAT)
 Network Policy Server (NPS)
 Distributed File System (DFS)
-Exam Ref 70-742 -
+MCSA 70-742 Cert Guid -
 Implement AD DS in complex environments
 Install a domain controller from Install from Media (IFM)
 Configure domain controller cloning (Hyper-V Manager, import the virtual machine)
