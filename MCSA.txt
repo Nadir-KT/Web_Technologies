@@ -4,4 +4,4 @@ Install a domain controller from Install from Media (IFM)
 Configure domain controller cloning (Hyper-V Manager, import the virtual machine)
 Active Directory Recycle Bin
 Group Policy Management (Configure software installation, Configure Internet Explorer settings)
-Active Directory Federation Services (AD FS)
+Active Directory Federation Services (ADFS)
