@@ -1,15 +1,7 @@
-Volume Activation Services role
-Hyper-V Replica
-NIC teaming
 MCSA Windows Server Study Guide Exam 70-740 - 168
 iSNS, Datacenter Bridging (DCB)
 Cluster-Aware Updating
 MCSA 70-741 Cert Guide - 214
-Implement IPv6.
-IP Address Management (IPAM)
-Network Address Translation (NAT)
-Network Policy Server (NPS)
-Distributed File System (DFS)
 MCSA 70-742 Cert Guid -
 Implement AD DS in complex environments
 Install a domain controller from Install from Media (IFM)
