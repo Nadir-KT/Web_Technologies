@@ -1,7 +1,3 @@
-MCSA Windows Server Study Guide Exam 70-740 - 168
-iSNS, Datacenter Bridging (DCB)
-Cluster-Aware Updating
-MCSA 70-741 Cert Guide - 214
 MCSA 70-742 Cert Guid -
 Implement AD DS in complex environments
 Install a domain controller from Install from Media (IFM)
@@ -9,4 +5,3 @@ Configure domain controller cloning (Hyper-V Manager, import the virtual machine
 Configure and restore objects by using the Active Directory Recycle Bin
 Group Policy Management (Configure software installation, Configure Internet Explorer settings)
 Active Directory Federation Services (AD FS)
-Web Application Proxy (WAP)
