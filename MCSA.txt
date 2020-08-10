@@ -1,5 +1,4 @@
 MCSA 70-742 Cert Guid -
-Implement AD DS in complex environments
 Install from Media
 Domain Controller Cloning
 Active Directory Recycle Bin
