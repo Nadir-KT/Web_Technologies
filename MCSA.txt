@@ -1,5 +1,5 @@
 MCSA 70-742 Cert Guid -
 Install from Media
-Domain Controller Cloning
+Configure Domain Controller Cloning
 Active Directory Recycle Bin
 Group Policy Management (Configure software installation, Configure Internet Explorer settings)
