@@ -2,3 +2,8 @@ Install from Media
 Configure Domain Controller Cloning
 Active Directory Recycle Bin
 Group Policy Management (Configure software installation, Configure Internet Explorer settings)
+IIS HTTPS Amazon
+VM Workstation
+Redhat GUI
+PT Gateway + DNS
+CV
