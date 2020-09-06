@@ -1,4 +1,3 @@
 Install from Media
-Configure Domain Controller Cloning
 Active Directory Recycle Bin
 Group Policy Management (Configure software installation, Configure Internet Explorer settings)
