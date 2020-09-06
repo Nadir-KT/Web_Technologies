@@ -1,3 +1,2 @@
-Install from Media
-Active Directory Recycle Bin
-Group Policy Management (Configure software installation, Configure Internet Explorer settings)
+Active Directory Recycle Bin , Install from Media
+Group Policy Management (Configure Internet Explorer settings)
