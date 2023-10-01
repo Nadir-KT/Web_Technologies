@@ -1,0 +1,31 @@
+70-744: Securing Windows Server 2016
+
+1.0 Implement Server Hardening Solutions
+1.1 Configure disk and file encryption
+1.2 Implement malware protection
+1.3 Protect credentials
+1.4 Create security baselines
+
+2.0 Secure a Virtualization Infrastructure
+2.1 Implement a Guarded Fabric solution
+2.2 Implement Shielded and encryption-supported VMs
+
+3.0 Secure a Network Infrastructure
+3.1 Configure Windows Firewall
+3.2 Implement a Software Defined Datacenter Firewall
+3.3 Secure network traffic
+
+4.0 Manage Privileged Identities
+4.1 Implement Just-In-Time (JIT) Administration
+4.2 Implement Just-Enough-Administration (JEA)
+4.3 Implement Privileged Access Workstations (PAWs) and User Rights Assignments
+4.4 Implement Local Administrator Password Solution (LAPS)
+
+5.0 Implement Threat Detection Solutions 
+5.1 Configure advanced audit policies
+5.2 Install and configure Microsoft Advanced Threat Analytics (ATA)
+5.3 Determine threat detection solutions using Operations Management Suite (OMS)
+
+6.0 Implement Workload-Specific Security
+6.1 Secure application development and server workload infrastructure
+6.2 Implement a secure file services infrastructure and Dynamic Access Control (DAC)

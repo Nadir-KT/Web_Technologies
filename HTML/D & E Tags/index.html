@@ -1,0 +1,43 @@
+<html><!-- Comments -->
+    <head>
+        <title>Page Title</title>
+    </head>
+    <style>
+        bdi{font-size: 25px;color: red}
+        blockquote{display: block;width: 250px}
+        button{background-color:aqua}
+    </style>
+    <body>
+        <embed src="src/GIF.gif" height="210" width="200">
+        <div style="border: 2px solid red; color: aqua; font-size: 25px; padding: 15px; width: 400px">
+            <p>Div Paragraph</p>
+        </div>
+        <dl><!-- discription language -->
+            <dt>discription term</dt>
+            <dd>discription definition</dd>
+        </dl>
+        Data List <input type="text" id="Input" list="MyList"> <!-- type="text"//text box -->
+        <datalist id="MyList">
+            <option value="Data1"></option>
+            <option value="Data2"></option>
+            <option value="Data3"></option>
+        </datalist>
+        <p>This is a <del>deleted</del> file</p>
+        <details>
+            <summary>Summary details</summary>
+            <p>Paragraph 1...</p>
+            <p>Paragraph 2...</p>
+        </details>
+        
+        <dialog style="width: 150px; background-color: aqua; border: 1px" id="Dialog">
+            <p>Dialog</p>
+        </dialog>
+        <button id="show">show</button>
+        <script type="text/javascript">
+            document.getElementById("show").onclick=function()
+            {
+                Dialog.show();
+            }
+        </script>
+    </body>
+</html>

@@ -1,0 +1,13 @@
+sudo -y
+yum install nginx -y
+chmod 777 /usr/share/nginx/html
+
+WinSCP
+/<root>/usr/share/nginx/html
+
+vi /etc/nginx/nginx.conf
+i
+Shift+Insert
+:wq!
+service nginx restart
+history

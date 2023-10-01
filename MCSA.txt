@@ -1,2 +1,0 @@
-Active Directory Recycle Bin , Install from Media
-Group Policy Management (Configure Internet Explorer settings)

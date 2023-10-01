@@ -1,0 +1,44 @@
+<html><!-- Comments -->
+    <head>
+        <title>Page Title</title>
+    </head>
+    <style>
+        bdi{font-size: 25px;color: red}
+        blockquote{display: block;width: 250px}
+        button{background-color:aqua}
+    </style>
+    <body>
+        <canvas id="Canvas" width="300" height="200" style="border: 2px solid"></canvas>
+        <script type="text/javascript">
+            var c=document.getElementById("Canvas");
+            var cnt=c.getContext("2d");
+            //cnt.fillStyle="#FF0000";//Rectangle Color
+            //cnt.fillRect(0,0,250,100);//fillRect(x,y,w,h);//Rectangle Size
+            cnt.moveTo(0,0);//Line Start
+            cnt.lineTo(150,250);//Line End
+            cnt.stroke();//Line Drawer
+        </script>
+        <table border="1">
+            <caption style="align-items: flex-end">Caption Headding</caption>
+            <colgroup><!-- collum group -->
+                <col span="1" style="background-color: aqua">
+                <col span="2" style="background-color: cadetblue">
+            </colgroup>
+            <tr><!-- table row -->
+                <th>Table 1 Headding 1</th>
+                <th>Table 1 Headding 2</th>
+                <th>Table 1 Headding 3</th>
+            </tr>
+            <tr><!-- table row -->
+                <td>Table 2 Details 1</td>
+                <td>Table 2 Details 2</td>
+                <td>Table 2 Details 3</td>
+            </tr>
+            <tr><!-- table row -->
+                <td>Table 3 Details 1</td>
+                <td>Table 3 Details 2</td>
+                <td>Table 3 Details 3</td>
+            </tr>
+        </table>
+    </body>
+</html>

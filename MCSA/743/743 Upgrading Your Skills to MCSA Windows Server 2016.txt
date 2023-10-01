@@ -1,0 +1,41 @@
+70-743: Upgrading Your Skills to MCSA: Windows Server 2016
+
+740 Installation, Storage, and Compute with Windows Server 2016
+1.0 Install Windows Servers in Host and Compute Environments
+1.1 Install, upgrade, and migrate servers and workloads
+1.2 Install and configure Nano Server
+1.3 Create, manage, and maintain images for deployment
+2.0 Implement Storage Solutions
+2.1 Implement server storage
+2.2 Implement data deduplication
+3.0 Implement Hyper-V
+3.1 Install and configure Hyper-V
+3.2 Configure virtual machine (VM) settings
+3.3 Configure Hyper-V storage
+3.4 Configure Hyper-V networking
+4.0 Implement Windows Containers
+4.1 Deploy Windows containers
+4.2 Manage Windows containers
+5.0 Implement High Availability
+5.1 Implement high availability and disaster recovery options in Hyper-V
+5.2 Implement failover clustering
+5.3 Implement Storage Spaces Direct
+5.4 Manage failover clustering
+5.5 Manage VM movement in clustered nodes
+
+741 Networking with Windows Server 2016
+1.0 Implement Domain Name System (DNS)
+1.1 Install and configure DNS servers
+2.0 Implement and Maintain IP Address Management (IPAM)
+3.0 Implement Network Connectivity and Remote Access Solutions
+3.1 Implement virtual private network (VPN) and DirectAccess solutions
+4.0 Implement an Advanced Network Infrastructure
+4.1 Implement high performance network solutions
+4.2 Determine scenarios and requirements for implementing Software Defined Networking (SDN)
+
+742 Identity with Windows Server 2016
+1.0 Install and Configure Active Directory Domain Services (AD DS)
+1.1 Install and configure domain controllers
+2.0 Implement identity federation and access solutions
+2.1 Install and configure Active Directory Federation Services (AD FS)
+2.2 Implement Web Application Proxy (WAP)
