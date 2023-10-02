@@ -1,0 +1,55 @@
+<!--
+1. CSS Element Selector - HTML Tag
+2. CSS ID Selector - #id
+3. CSS Class Selector - .class
+4. CSS Universal Selector - *
+5. CSS Group Selector
+-->
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <style type="text/css">
+	#heading
+	{
+        color: red;
+        font-family: sans-serif;
+        padding: 5px;
+        text-align: center;
+	}
+        .heading
+	{
+        color: red;
+        font-family: sans-serif;
+        padding: 5px;
+        text-align: center;
+        background-color: burlywood;
+	}
+        h3.heading
+	{
+        color: darkgreen;
+        font-family: sans-serif;
+        padding: 5px;
+        text-align: center;
+        background-color: chartreuse;
+	}
+        *
+        {
+            color: gold;
+        }
+        p,h5,h6
+        {
+            color: deeppink;
+        }
+    </style>
+    <body>
+	<h1 id="heading">Welcome to CSS</h1>
+	<p style="color: blue">This is a paragraph</p>
+        Text Input <input type="text">
+        <h2 class="heading">CSS Class Selector</h2>
+        <h3 class="heading">CSS Class Selector</h3>
+        <h4>CSS Universal Selector</h4>
+        <h5>CSS Group Selector</h5>
+        <h6>CSS Group Selector</h6>
+    </body>
+</html>
