@@ -25,10 +25,44 @@
             display: inline-block;
             letter-spacing: 5px;
         }
+        a{
+            color: red;
+        }
+        a:hover{
+            color: green;
+        }
+        a:active{
+            color: blue;
+        }
+        .main{
+            width: 480px;
+            height: 200px;
+        }
+        .image{
+            width: 480px;
+            height: 200px;
+            display: block;
+        }
+        .over{
+            background: rgba(0, 0, 0, 0.2);
+            width: 350px;
+            transition: 1s;
+            opacity: 0;
+            font-size: 25px;
+            padding: 25px;
+        }
+        .main:hover .over
+        {
+            opacity: 2.5;
+        }
     </style>
     <body>
         <button>Button</button>
         <p>Paragraph</p>
-        <div>Div</div>
+        <a href="https://google.com">google</a><br>
+        <div class="main">
+            <img src="F:/Web_Technologies/CSS/src/background.jpeg" class="image">
+            <div class="over">Div</div>
+        </div>
     </body>
 </html>
