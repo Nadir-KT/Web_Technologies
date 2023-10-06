@@ -4,22 +4,43 @@
         <title>Page Title</title>
     </head>
     <style type="text/css">
-        div{
-            border: 5px solid red;
-            outline: 5px solid violet;
-            outline-offset: 5px;
+        #image{
             width: 400px;
-            height: 300px;
-            padding-left: 100px;
-            padding-top: 100px;
-            box-shadow: 15px 10px 20px 25px red inset;/*box-shadow: x y blur spread color direction;*/
-            text-shadow: -3px -3px 3px red;/*text-shadow: x y blur spread color;*/
+            height: 400px;
+            background-image: url("src/background.jpeg"), url("src/GIF.gif");
+            background-blend-mode: exclusion;
+            background-repeat: no-repeat;
+        }
+        #start{
+            display: flex;
+            justify-content: space-around;
+        }
+        .flex{
+            width: 50px;
+            height: 50px;
+            background-color: cadetblue;
+            border: 1px solid black;
+            margin: 5px;
+            letter-spacing: 1px;
+        }
+        h1{
+            color: aqua;
             font-size: 50px;
+            -webkit-text-stroke-width: 2px;
+            -webkit-text-stroke-color: red;
+            -webkit-text-fill-color: yellowgreen;
+            text-shadow: 5px 5px 6px gray;
         }
     </style>
     <body>
-        <div>
-            Div
+        <h1>Heading</h1>
+        <div id="image"></div>
+        <div id="start">
+            <div class="flex">Div A</div>
+            <div class="flex">Div B</div>
+            <div class="flex">Div C</div>
+            <div class="flex">Div D</div>
+            <div class="flex">Div E</div>
         </div>
     </body>
 </html>
