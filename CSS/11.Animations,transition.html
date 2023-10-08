@@ -1,0 +1,61 @@
+<!--cubic-bezier(),transform,transition,writing-mode-->
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <style type="text/css">
+        .anime{
+            width: 200px;
+            height: 50px;
+            background-color: blue;
+            transition: width 3s;
+            animation-timing-function: cubic-bezier(.59,1.01,0,.01)
+        }
+        .anime:hover{
+            width: 500px;
+        }
+        .box{
+            margin: 100px;
+            width: 400px;
+            height: 100px;
+            background-color: blue;
+        }
+        .slope{
+            width: 400px;
+            height: 100px;
+            background-color: yellow;
+            transform: rotate(10deg);
+            transform-origin: 1% 2%;
+        }
+        p{
+            height: 300px;
+            width: 300px;
+            margin: 80px;
+            border: 10px solid black;
+            padding: 20px;
+            writing-mode: vertical-lr;/*writing-mode: horizontal-tb | vertical-rl | vertical-lr | initial | inherit;*/
+        }
+        .transition{
+            width: 100px;
+            height: 100px;
+            background-color: red;
+            transition-property: width,background-color;
+            transition-duration: 5s;
+            transition-delay: 0.5;
+        }
+        .transition:hover{
+            background-color: black;
+            width: 500px;
+        }
+    </style>
+    <body>
+        <h1>Heading 1</h1>
+        <div class="anime"></div>
+        <div class="box"><div class="slope"></div></div>
+        <p>CSS Writing Modes is a module that defines various international writing modes, 
+            such as left-to-right(e.g. used by Latin and Indic scripts) ,right-to-left(e.g. Hebrew and Arabic scripts) 
+            .or bidi-directional(when mixing used left-to-right and right-to-left scripts) and vertical(used by some Asian  scripts)
+        </p>
+        <div class="transition"></div>
+    </body>
+</html>

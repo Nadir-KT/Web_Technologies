@@ -1,0 +1,38 @@
+<!--@keyframes-->
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <style type="text/css">
+        @keyframes Anime/*@-webkit-keyframes*/
+        {
+            from{background: red;}
+            to{background: black;}
+        }
+        @keyframes Move0{
+            0%{background: red;left:0px;top:0px}
+            25%{background: yellow;left:300px;top:0px}
+            50%{background: blue;left:300px;top:300px}
+            75%{background: black;left:0px;top:300px}
+            100%{background: red;left:0px;top:0px}
+        }
+        .color{
+            width: 100px;
+            height: 100px;
+            background: red;
+            animation: Anime 20s;/*-webkit-animation*/
+        }
+        .square{
+            width: 100px;
+            height: 100px;
+            background: red;
+            position: relative;
+            animation: Move0 20s;
+        }
+    </style>
+    <body>
+        <h1>Heading 1</h1>
+        <div class="color"></div>
+        <div class="square"></div>
+    </body>
+</html>

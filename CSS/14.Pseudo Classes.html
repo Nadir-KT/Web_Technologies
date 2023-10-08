@@ -1,0 +1,52 @@
+<!--Selector:PseudoClass{property}-->
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <style type="text/css">
+        h1:hover /*Selector:PseudoClass{property}*/
+        {
+            color: blue;
+        }
+        a:hover{
+            color: red;
+        }
+        a:active{
+            color: yellow;
+        }
+        a:visited{
+            color: chartreuse;
+        }
+        input:focus{
+            box-shadow: 10px 10px 10px black;
+        }
+        h1:first-child{
+            color: red;
+        }
+        h1{
+            font-size: 50px;
+            position: relative;
+            color: aqua;
+        }
+        h1::before{
+            transform: scale(1);
+            transform-origin: bottom left;
+            background: red;
+            display: block;
+            background-color: aqua;
+            transition: transform .3s ease;
+        }
+        h1:hover{
+            transform: scale(0);
+            transform-origin: bottom right;
+        }
+    </style>
+    <body>
+        <h1>Heading 1.0</h1>
+        <h1>Heading 1.1</h1>
+        <div></div>
+        <a href="https://www.google.com">Click here</a>
+        <label>Label</label>
+        <input type="text" placeholder="Input">
+    </body>
+</html>

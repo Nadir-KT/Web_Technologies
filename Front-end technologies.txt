@@ -3,6 +3,6 @@ CODING REMAINING: COLLECTIONS, SWINGS, MySQL, HTML, CSS, JS, JDBC, SERVLETS, HIB
 Front-end technologies
 ----------------------
 HTML-11-10, Rewise=1
-CSS-23-9
+CSS-23-15
 JS-31-
 JQuery, Bootstrap

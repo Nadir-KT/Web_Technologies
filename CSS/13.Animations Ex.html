@@ -1,0 +1,32 @@
+<!--@keyframes-->
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <style type="text/css">
+        @keyframes Anime/*@-webkit-keyframes*/
+        {
+            from{background: red; width: 300px; top: 10px;}
+            to{background: black; width: 50px; top: 100px}
+        }
+        div{
+            animation: Anime 5s;
+            animation-iteration-count: infinite;
+            animation-direction: alternate;
+            animation-timing-function: linear;
+            width: 300px;
+            height: 100px;
+            border-radius: 10px;
+            position: absolute;
+            left: 0px;
+            right: 0px;
+            background: red;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+    <body>
+        <h1>Heading 1</h1>
+        <div></div>
+    </body>
+</html>
