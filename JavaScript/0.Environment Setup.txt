@@ -1,0 +1,71 @@
+Environment Setup
+-----------------
+https://nodejs.org/en/download/ 
+https://code.visualstudio.com/download
+https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html
+https://developer.android.com/studio/ 2020.3.1
+
+CMD
+---
+node --version
+node -v
+v18.12.1
+npm -v
+npm view react version
+8.19.2
+npm install -g react-native-cli
+npm view react-native version
+java -version
+java version "15" 2020-09-15
+
+Terminal
+--------
+node FileName.js //Execute FileName.js
+
+index.js == main.c
+App.js == Modifying the app
+
+Chrome-DevTools
+---------------
+Inspector: Code Inspector
+Console: Sinmilar to node
+
+Android Studio
+--------------
+SDK Manager -> SDK Platforms -> Show Package Details -> Android 10 (Q) -> Android SDK Platform 29 -> Intel x86 Atom_64 System Image or Google APIs Intel x86 Atom System Image -> Apply
+SDK Manager -> SDK Tools -> Show Package Details -> Android SDK Build-Tools -> 29.0.2 -> Apply
+AVD Manager(Device Manager) -> Create Virtual Device ->
+Pixel 4 -> Next -> Android 10 (Q) -> Install HAXM -> Next -> Finish
+
+Environment Variable
+--------------------
+Search for Edit the system environment -> Environment Variable
+System variables -> Variable name: JAVA_HOME -> Variable value: C:\Program Files\Java\jdk-15 -> OK
+User variables -> Path -> Edit -> New -> C:\Program Files\Java\jdk-15 -> OK
+System variables -> Variable name: ANDROID_HOME -> Variable value: C:\Users\Username\AppData\Local\Android\Sdk -> OK
+User variables -> Path -> Edit -> New -> C:\Users\Username\AppData\Local\Android\Sdk -> OK
+
+Creating a new application
+--------------------------
+react-native init ProjectName
+npx react-native init ProjectName
+npx react-native init ProjectName --version 0.68.2
+
+VS Code Terminal
+----------------
+Open Project Folder
+Terminal -> New Terminal
+npm cache clean--force
+npm install
+npm install -g react-native-cli
+npx react-native start
+Open a New Terminal by clicking the plus button
+npx react-native run-android
+npx react-native run-ios
+Set-ExecutionPolicy RemoteSigned
+react-native start
+react-native run-android
+
+VS Code Extensions
+------------------
+Code Runner
