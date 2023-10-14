@@ -45,3 +45,24 @@ switch (z)
     default :
     console.log('code executed',z)
 }
+
+//Switch Statement
+let w="Monday"
+switch(w)
+{
+    case "Sunday":
+        console.log("Holliday")
+        break;
+    case "Monday":
+        console.log("Working")
+        break;
+    default:
+        console.log("Invalid")
+        break;
+}
+
+//Template Literal
+let g=4, h=2
+let result=g+h
+console.log("The addition of "+g+" and "+h+" is "+result)
+console.log(`The addition of ${g} and ${h} is ${result}`)

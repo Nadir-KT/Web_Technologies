@@ -18,8 +18,24 @@ else
 }
 
 //Conditional Statement
-let x=10, y=5
+let x=10, y=5, z=8
 if(x>y)
-console.log("Largest no is"+x)
+console.log("Largest no is "+x)
 else
-console.log("Larges no is"+y)
+console.log("Larges no is "+y)
+
+if(x>y && x>z)
+console.log("Largest no is "+x)
+else if(y>z)
+console.log("Larges no is "+y)
+else
+console.log("Larges no is "+z)
+
+//nested if
+if(1)
+{
+    if(1)
+    {
+        console.log("Nested if")
+    }
+}

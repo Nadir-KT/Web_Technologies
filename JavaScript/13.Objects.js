@@ -1,7 +1,14 @@
 // JavaScript Objects: Object, Number, Boolean, Array, Date, Math
 // Object by literal
-var fruits = {name: 'Apple', prize: 100}
+let abc ='name'
+let Obj ={}
+console.log(Obj, typeof(Obj))
+var fruits = {name: 'Apple', prize: 100, 'second name': 'fruit' } // Object = {key1: value1, key2: value2, ....} // Key & Value pairs
 console.log(fruits)
+console.log(fruits.name)
+console.log(fruits['name'])
+console.log(fruits['second name'])
+console.log(fruits[abc])
 // Object by instances
 var vegitables = new Object()
 vegitables.name = 'cucumber'

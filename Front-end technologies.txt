@@ -4,5 +4,5 @@ Front-end technologies
 ----------------------
 HTML-11-10, Rewise=1
 CSS-23-15
-JS-31-8
+JS-31-12
 JQuery, Bootstrap

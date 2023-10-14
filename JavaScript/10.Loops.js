@@ -87,3 +87,10 @@ for(var key in name)
 }
 
 console.log(data)
+
+let x =1;
+for(; x<=5;)
+{
+    console.log(x)
+    x++
+}
