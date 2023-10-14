@@ -16,3 +16,10 @@ else
 {
     console.log('b is empty')
 }
+
+//Conditional Statement
+let x=10, y=5
+if(x>y)
+console.log("Largest no is"+x)
+else
+console.log("Larges no is"+y)
