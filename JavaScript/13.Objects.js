@@ -9,6 +9,23 @@ console.log(fruits.name)
 console.log(fruits['name'])
 console.log(fruits['second name'])
 console.log(fruits[abc])
+var Inn = { Router: 'Cysco', laptop:{cpu:'i5', ram:8, brand:'dell'}, age1:9}//Inner Object
+console.log(Inn)
+console.log(Inn.laptop)
+console.log(Inn.laptop.brand)
+console.log(Inn.laptop.brand.length)
+console.log(Inn.laptop.age?.length)
+console.log(Inn.laptop.age)
+delete Inn.laptop.brand
+console.log(Inn)
+for(let key in Inn)//For in loop
+{
+    console.log(key)
+}
+for(let x in Inn)
+{
+    console.log(x,Inn[x])
+}
 // Object by instances
 var vegitables = new Object()
 vegitables.name = 'cucumber'
