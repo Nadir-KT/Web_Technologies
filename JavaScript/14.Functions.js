@@ -27,3 +27,52 @@ function ArgRet(y){
 let y='ArguimentsReturned'
 let Ret1=ArgRet(y)
 console.log(Ret1)
+//Local & Global Variable
+function wish(user)//Local Variable
+{
+    return `Hello ${user}`
+}
+let user1='User' //Global Variable, Hoisting
+let result=wish(user1)
+console.log(result)
+
+function add(num1,num2,num3,num4=0)//Parameters
+{
+    return num1+num2+num3+num4
+}
+let out=add(5,6,7,8)//Arguiments
+console.log(out)
+
+let sum=function sub(num1,num2)
+{
+    return num1-num2
+}
+console.log(sum)
+let sum1=sum
+let sum2=sum1(10,5)
+console.log(sum2)
+
+let fun=function(num1,num2)
+{
+    console.log("Hello World")
+    return num1+num2
+}
+console.log(fun(5,5))
+//Arrow Function
+let arr=()=>
+{
+    console.log("Hello World")
+    return 0
+}
+console.log(arr())
+
+let arr1=(num1,num2)=>
+{
+    console.log("Hello World")
+    return num1+num2
+}
+console.log(arr1(6,7))
+console.log(arr1)
+
+let arr2=(num1,num2)=>console.log(num1+num2)
+arr2(6,7)
