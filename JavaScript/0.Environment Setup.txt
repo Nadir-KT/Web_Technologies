@@ -28,7 +28,7 @@ App.js == Modifying the app
 Chrome-DevTools
 ---------------
 Inspector: Code Inspector
-Console: Sinmilar to node
+Console: Similar to node
 
 Android Studio
 --------------
