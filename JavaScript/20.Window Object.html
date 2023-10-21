@@ -1,0 +1,45 @@
+<!--
+    Methods of Window Object
+    alert()
+    confirm()
+    prompt()
+    open()
+    close()
+    setTimeout()
+-->
+<html>
+    <head>
+        <title>DemoApplication</title>
+        <script type="text/javascript">
+            function display()
+            {
+                alert("OnClick")
+                window.alert("WindowObject")
+                let va=confirm("Are you want to delete?")
+                if(va===true)
+                {
+                    alert("Deleted Permenantly");
+                }
+                else{
+                    alert("Deletion cancelled")
+                }
+                let name=prompt("Enter your name")
+                alert("Hello "+name)
+            }
+            function open1(){
+                open("https://github.com/Nadir-KT")
+            }
+            function close1(){
+                setTimeout(()=>{
+                open("https://github.com/Nadir-KT")
+                }, 2000);
+            }
+        </script>
+    </head>
+    <body>
+        <h1>Browser Objects</h1>
+        <input type="button" value="click" onclick="display()">
+        <input type="button" value="click" onclick="open1()">
+        <input type="button" value="click" onclick="close1()">
+    </body>
+</html>

@@ -1,0 +1,36 @@
+<!--
+    history.forward()
+    history.backward()
+    history.go()
+-->
+<html>
+    <head>
+        <title>DemoApplication</title>
+        <script type="text/javascript">
+            function display()
+            {
+                history.forward();
+                alert(screen.width)
+                alert(screen.height)
+                alert(screen.availWidth)
+                alert(screen.availHeight)
+                alert(screen.colorDepth)
+                alert(screen.pixelDepth)
+            }
+            function display1()
+            {
+                history.go(2);//go to second history, -2 for 2 back history
+                alert("appCodeName:"+navigator.appCodeName);
+                alert("appName:"+navigator.appName);
+                alert("appVersion:"+navigator.appVersion);
+                alert("language:"+navigator.language);
+                alert("platform:"+navigator.platform);
+            }
+        </script>
+    </head>
+    <body>
+        <h1>Browser Objects</h1>
+        <input type="button" value="forward" onclick="display()">
+        <input type="button" value="go" onclick="display1()">
+    </body>
+</html>

@@ -1,4 +1,4 @@
-//BOM: Browser Object Model
+//BOM: Browser Object Model :- Window,History,Navigator,Screen
 let laptop={
     ram:6,
     cpu:"i7",

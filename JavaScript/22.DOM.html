@@ -1,0 +1,24 @@
+<!--write("string")
+    writeln("string")
+    getElementById()
+-->
+<html>
+    <head>
+        <title>DemoApplication</title>
+        <script type="text/javascript">
+            function display()
+            {
+                let name=document.form1.name.value;
+                document.writeln("Welcome"+name)
+            }
+        </script>
+    </head>
+    <body>
+        <h1>Document Objects</h1>
+        <input type="button" value="go" onclick="display()">
+        <form name="form1">
+            Enter Name :<input type="text" name="name">
+            <input type="button" value="click" onclick="display()">
+        </form>
+    </body>
+</html>
