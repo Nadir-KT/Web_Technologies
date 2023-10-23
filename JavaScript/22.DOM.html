@@ -1,6 +1,9 @@
-<!--write("string")
+<!--DOM: Document Object Model
+    write("string")
     writeln("string")
     getElementById()
+    getElementsByName()
+    getElementsByClassName()
 -->
 <html>
     <head>
@@ -8,8 +11,19 @@
         <script type="text/javascript">
             function display()
             {
-                let name=document.form1.name.value;
-                document.writeln("Welcome"+name)
+                //let name=document.form1.name.value;
+                let name=document.getElementById("nam").value
+                document.writeln("Welcome "+name)
+            }
+            function display2()
+            {
+                let name=document.getElementsByName("gender")
+                alert(name.length);
+            }
+            let name=document.getElementsByClassName("demo")
+            for(let x in name)
+            {
+                console.log(x.split(" "));
             }
         </script>
     </head>
@@ -17,8 +31,16 @@
         <h1>Document Objects</h1>
         <input type="button" value="go" onclick="display()">
         <form name="form1">
-            Enter Name :<input type="text" name="name">
+            Enter Name :<input type="text" name="name" id="nam">
             <input type="button" value="click" onclick="display()">
         </form>
+        <form name="form2">
+            Male :<input type="radio" name="gender" value="male">
+            FeMale :<input type="radio" name="gender" value="female">
+            <input type="button" value="click" onclick="display2()">
+        </form>
+        <div class="demo">
+            This is a demo div
+        </div>
     </body>
 </html>

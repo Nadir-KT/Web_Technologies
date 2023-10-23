@@ -1,0 +1,38 @@
+<!--
+    getElementsByClassName()
+-->
+<html>
+    <head>
+        <title>DemoApplication</title>
+        <script type="text/javascript">
+            function display(){
+                let name=document.getElementsByClassName("demo")[1].innerText;
+                let name2=document.getElementsByTagName("p")[0].innerText;
+                alert(name)
+                alert(name2)
+                let name3=document.getElementsByTagName("p")//Any Tag : P, Div, etc..
+                name3[0].style.color="red";
+                name3[1].style.color="green";
+            }
+            function display1(){
+                let name="name:<input type='text' name='name'><br>Comment:<textarea rows='5' cols='50'></textarea><br><input type='button' value='postcomment'>";
+                document.getElementById('load').innerHTML=name;
+            }
+            function display2(){
+                let name1="Hello from Inner Text"
+                document.getElementById('load').innerText=name1;
+            }
+        </script>
+    </head>
+    <body>
+        <p class="demo">this is my first text</p>
+        <p class="demo">this is my second text</p>
+        <input type="button" value="click" onclick="display()">
+        <form>
+            <input type="button" name="Connect" onclick="display1()" value="comment">
+            <div id="load"></div>
+            <input type="button" name="Connect" onclick="display2()" value="comment2">
+            <div id="load"></div>
+        </form>
+    </body>
+</html>
