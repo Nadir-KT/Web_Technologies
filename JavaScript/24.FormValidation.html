@@ -1,0 +1,38 @@
+<!--16:00
+
+-->
+<html>
+    <head>
+        <title>DemoApplication</title>
+        <script type="text/javascript">
+            function validation(){
+                let name=f1.name.value;
+                let pwd=f1.pwd.value;
+                let status=false;
+                if(name.length<1){
+                    document.getElementById("namespan").innerText="Enter Name"
+                    status=false;
+                }else{
+                    status=true;
+                }
+                if(pwd.length<1){
+                    document.getElementById("pwdspan").innerText="Enter Password"
+                    status=false;
+                }else{
+                    //status=true;
+                }
+                return status;
+            }
+        </script>
+    </head>
+    <body>
+        <h1>Login</h1>
+        <form name="f1" onsubmit="return validation()" action="19.html">
+            <pre>
+            Enter Name     :<input type="text" name="name"> <span id="namespan"></span><br>
+            Enter Password :<input type="password" name="pwd"> <span id="pwdspan"></span><br>
+            <input type="submit" value="Login">
+            </pre>
+        </form>
+    </body>
+</html>
