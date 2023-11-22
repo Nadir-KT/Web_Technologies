@@ -1,0 +1,7 @@
+int x=2;//var(global) or let(fun) or const
+console.log(typeof x);
+
+function div(){
+console.log("hai")
+}
+div
